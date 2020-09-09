@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css?family=Chelsea+Market);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono);
+* {
+    text-align:center;
+    margin: auto;
+    max-width: 85%;
+    font-family: Roboto Mono;
+    
+  }
+#IDB {
+    width: 30%;
+    font-size: 14px;
+}
+#footerbuttons {
+   
+    background-color: #F9E7DC;
+}
+.img3 {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    object-position: 0px -50px;
+}
+.img2 {
+    width: 100px;
+    float: center;
+}
+h1 {
+      font-family: Chelsea Market;
+      font-size: 40px;
+  }
+
+#buttons {
+    border: 50px;
+    padding: 20px;
+} 
+#intro {
+    border: 20px;
+    padding: 20px;
+   
+}
+#IDA {
+    color:white;
+    border: 50px;
+    background-color: #DDB9A3;
+}
+ .headerimg {
+    border-radius: 50%;
+    width:200px;
+    float:left;
+  }
+  .Plan{
+    margin: 0 50px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+     /*======= create a background property. Set the value to #F87B99 */
+    background-color: #FF764E
+    ;
+  }
+  .Learn{
+    margin: 0 50px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+     /*======= create a background property. Set the value to #F87B99 */
+    background-color: #5ED3EB
+    ;
+  }
+  .Involved{
+    margin: 0 50px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+     /*======= create a background property. Set the value to #F87B99 */
+    background-color: #FFCD69
+    ;
+  }
